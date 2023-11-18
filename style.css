@@ -1,0 +1,9 @@
+.bar {
+  fill: #2894ff;
+}
+.tick line {
+  stroke: lightgray;
+}
+.domain {
+  stroke: lightgray;
+}
